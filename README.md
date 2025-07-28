@@ -1,21 +1,17 @@
 # 聚能环PowerRing 2.x（修改版）
 
 > [!TIP]
->
-> 本项目是[琴梨梨OvO](https://github.com/qinlili23333)的[聚能环](https://github.com/GlacierLab/PowerRing)项目的改版，变更了显示字体以满足我个人的需求。
->
+> 本项目是琴梨梨OvO的聚能环项目的改版，变更了显示字体以满足我个人的需求。
 > 如果您喜爱此项目，请移步[聚能环](https://github.com/GlacierLab/PowerRing)项目，为原作者打star或捐赠。本项目不开放捐赠。
->
 > 本项目可能不会及时跟进上游[聚能环](https://github.com/GlacierLab/PowerRing)项目的变更，也不会处理其产生的bug。您可以给原作者[琴梨梨OvO](https://github.com/qinlili23333)提[issue](https://github.com/GlacierLab/PowerRing/issues)或者PR。
-
-> [!WARNING]
->
-> **这个项目目前没有完成开发**
 
 ## 改动
 
 - 将原项目显示字体改为 ~~NotoSans CJK~~ Window 默认字体
 
+## 如何安装
+
+- 截至目前本项目尚未发布release和安装包，您可以考虑在本地编译源码。
 
 
 以下是原始项目的README，所有下载链接指向原版，注意区分。
