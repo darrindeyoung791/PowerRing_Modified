@@ -9,11 +9,12 @@
 
 ## 改动
 
-- 将原项目显示字体改为 ~~NotoSans CJK~~ Window 默认字体
+- 将原项目显示字体改为 ~~NotoSans CJK~~ Windows 默认字体
 
 ## 如何安装
 
-- 截至目前本项目尚未发布release和安装包，您可以考虑在本地编译源码。
+- ~~截至目前本项目尚未发布release和安装包，您可以考虑在本地编译源码~~
+- 转到[release页面](https://github.com/darrindeyoung791/PowerRing_Modified/releases)下载。文件未签名，可能被 Windows Defender 警告
 
 
 以下是原始项目的README，所有下载链接指向原版，注意区分。
