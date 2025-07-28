@@ -5,7 +5,6 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Resona"
         mc:Ignorable="d"
-        FontFamily ="pack://application:,,,/#Xiaolai SC"
         Title="选择显卡和传感器" SizeToContent="WidthAndHeight" ResizeMode="CanMinimize" WindowStartupLocation="CenterScreen" ThemeMode="System">
     <Grid Height="150" Width="600">
         <Label Content="显卡" HorizontalAlignment="Left" Height="26"  VerticalContentAlignment="Center" FontSize="16" Margin="10,13,0,78" Width="57" VerticalAlignment="Top"/>

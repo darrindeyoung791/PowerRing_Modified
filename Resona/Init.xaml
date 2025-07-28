@@ -5,7 +5,6 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Resona"
         mc:Ignorable="d"
-        FontFamily ="pack://application:,,,/#Xiaolai SC"
         Title="Resona is loading..." Height="110" Width="300" WindowStyle="None" AllowsTransparency="True" Background="#B2FFFFFF" BorderThickness="1,1,1,1"  WindowStartupLocation="CenterScreen" Topmost="True" Cursor="Wait" ShowInTaskbar="False">
     <Window.BorderBrush>
         <LinearGradientBrush EndPoint="0,1" StartPoint="1,0">

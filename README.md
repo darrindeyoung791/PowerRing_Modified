@@ -14,7 +14,7 @@
 
 ## 改动
 
-- 将原项目显示字体改为NotoSans CJK
+- 将原项目显示字体改为 ~~NotoSans CJK~~ Window 默认字体
 
 
 
