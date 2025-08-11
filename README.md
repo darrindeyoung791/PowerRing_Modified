@@ -1,11 +1,11 @@
 # 聚能环PowerRing 2.x（修改版）
 
 > [!TIP]
-> 本项目是琴梨梨OvO的聚能环项目的改版，变更了显示字体以满足我个人的需求。
+> 本项目是琴梨梨OvO的聚能环项目的改版，变更了显示字体以满足我个人的需求。原作者不为本项目和本人的更改背书。
 >
 > 如果您喜爱此项目，请移步[聚能环](https://github.com/GlacierLab/PowerRing)项目，为原作者打star或捐赠。本项目不开放捐赠。
 >
-> 本项目可能不会及时跟进上游[聚能环](https://github.com/GlacierLab/PowerRing)项目的变更，也不会处理其产生的bug。您可以给原作者[琴梨梨OvO](https://github.com/qinlili23333)提[issue](https://github.com/GlacierLab/PowerRing/issues)或者PR。
+> 本项目可能不会及时跟进上游[聚能环](https://github.com/GlacierLab/PowerRing)项目的变更，也不会处理其产生的bug。若希望做出贡献，您可以给原作者[琴梨梨OvO](https://github.com/qinlili23333)提[issue](https://github.com/GlacierLab/PowerRing/issues)或者PR。待原作者修改变更后，本项目会适时同步变更。
 
 ## 改动
 
@@ -13,8 +13,8 @@
 
 ## 如何安装
 
-- ~~截至目前本项目尚未发布release和安装包，您可以考虑在本地编译源码~~
 - 转到[release页面](https://github.com/darrindeyoung791/PowerRing_Modified/releases)下载。文件未签名，可能被 Windows Defender 警告
+- ~~截至目前本项目尚未发布release和安装包~~，您可以考虑在本地编译源码
 
 
 以下是原始项目的README，所有下载链接指向原版，注意区分。
